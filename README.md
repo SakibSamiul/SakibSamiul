@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1726704000&v=beta&t=hF1jcCLkt1hoBZ1lBZxzuVg8Vkg70m5A-2Wlpkbaxz4)]
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1726704000&v=beta&t=hF1jcCLkt1hoBZ1lBZxzuVg8Vkg70m5A-2Wlpkbaxz4)
 
 <h1 align="center">Hi 👋, I'm Md. Samiul Islam Sakib</h1>
 
