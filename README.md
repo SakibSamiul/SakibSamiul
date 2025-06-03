@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibsamiul&label=Profile%20views&color=0e75b6&style=flat" alt="sakibsamiul" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Frappe and ERPNext**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and Frappe and ERPNext**
 
 - 📫 How to reach me **sb.sakib77@gmai.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I Love to Play Cricket and Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
