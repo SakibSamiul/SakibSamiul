@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibsamiul&label=Profile%20views&color=0e75b6&style=flat" alt="sakibsamiul" /> </p>
 
-- 🌱 I’m currently learning **Python and Frappe and ERPNext**
-
-- 💬 Ask me about **Python and Frappe and ERPNext**
+- 🌱 I’m currently learning **Python, Frappe and ERPNext**
 
 - 📫 How to reach me **sb.sakib77@gmai.com**
 
